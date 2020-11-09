@@ -13,7 +13,7 @@ The file name function_call.py contains custom functions used throughout the not
 
 ## Project Performance Summary
 
-![](https://github.com/StevenLoaiza/Fraudmodel/blob/main/ROC_Curve.png?raw=true)
+![](https://github.com/StevenLoaiza/Fraudmodel/blob/main/images/ROC_Curve.png?raw=true)
 
 We build two models above to predict fraud. The first model was a naive logistic regression. All we did was throw the data into the model and checked the performance. As expected, the model did not do well. It failed to identify any fraudlant cases. Instead the model predicted that all the transactions were non fraudualant.
 
